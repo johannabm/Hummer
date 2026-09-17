@@ -1,4 +1,4 @@
-# Hummer
+# Hummer | European lobster | Homarus gammarus
 Information and codes from IMRs lobster projects
 
 For more info see: https://www.hi.no/hi/temasider/arter/hummer-europeisk
